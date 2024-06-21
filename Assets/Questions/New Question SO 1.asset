@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a7a783c80264cce9ac0ee471af4b9f, type: 3}
+  m_Name: New Question SO 1
+  m_EditorClassIdentifier: 
+  question: "C\xF3 1 b\xE0 kia kh\xF4ng bi\u1EBFt b\u01A1i, xu\u1ED1ng n\u01B0\u1EDBc
+    l\xE0 b\u1EA3 ch\u1EBFt. M\u1ED9t h\xF4m b\xE0 \u0111i t\xE0u, b\u1ED7ng nhi\xEAn
+    t\xE0u ch\xECm, nh\u01B0ng b\xE0 kh\xF4ng ch\u1EBFt.T\u1EA1i sao (kh\xF4ng ai
+    c\u1EE9u h\u1EBFt)?"
+  answers:
+  - "B\xE3 l\xE0 ma"
+  - "L\xE0 v\u1EADn \u0111\u1ED9ng vi\xEAn b\u01A1i l\u1ED9i!"
+  - "B\xE3 \u0111i t\xE0u ng\u1EA7m"
+  - "B\xE3 c\xF3 phao c\u1EE9u sinh"
+  correctAnswerIndex: 2
